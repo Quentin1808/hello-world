@@ -1,3 +1,10 @@
+*{
+  font-size: 1em;
+}
+
+h1{
+  font-size: 8vw
+}
 body #logob{
   background-image: url(../images/iutlittoral.jpg);
   background-repeat: no-repeat;
@@ -6,4 +13,5 @@ body #logob{
   display: block;
   width: 300px;
   height: 158px;
+
 }
