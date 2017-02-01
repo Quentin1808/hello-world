@@ -1,3 +1,7 @@
 body{
-  background-image: url(images/iutlittoral.jpg);
+  background-image: url(../images/iutlittoral.jpg);
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  margin: auto;
+  display: block;
 }
