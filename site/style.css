@@ -14,10 +14,6 @@ body #banniere ul{
 
 }
 
-body #banniere li{
-  display: inline;
-}
-
 body #banniere input{
   float: right;
 }
