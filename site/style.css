@@ -11,4 +11,10 @@ body #banniere{
 
 body #banniere li{
   display:inline;
+  margin-right: 0;
+
+}
+
+body #banniere input{
+  margin-right: 0;
 }
