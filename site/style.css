@@ -5,12 +5,15 @@ body{
 body #banniere{
   width: 100%;
   height:75px;
+  float :right;
 
 }
 
 body #banniere ul{
-  float: right;
+  float: left;
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 
 }
 
