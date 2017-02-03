@@ -1,0 +1,14 @@
+body{
+  background-color: #C63915;
+}
+
+body #banniere{
+  list-style: none;
+  width: 100%;
+  height:75px;
+
+}
+
+body #banniere li{
+  display:inline;
+}
