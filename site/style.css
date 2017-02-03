@@ -3,7 +3,6 @@ body{
 }
 
 body #banniere{
-  list-style-type: none;
   width: 100%;
   height:75px;
 
@@ -12,8 +11,6 @@ body #banniere{
 body #banniere ul{
   float: right;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
 
 }
 
