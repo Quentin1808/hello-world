@@ -9,12 +9,15 @@ body #banniere{
 
 }
 
-body #banniere li{
-  display:inline;
+body #banniere ul{
   float: right;
 
 }
 
+body #banniere li{
+  display: inline;
+}
+
 body #banniere input{
-  margin-right: 0;
+  float: right;
 }
