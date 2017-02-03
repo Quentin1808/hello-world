@@ -11,12 +11,12 @@ body #banniere{
 
 body #banniere ul{
   float: right;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 
 }
 
-body #banniere li{
-  display:inline-block;
-}
 body #banniere input{
   float: right;
 }
